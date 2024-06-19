@@ -6,17 +6,17 @@ Nebula Proxy is a well-regarded proxy service offering advanced internet connect
 
 Nebula Proxy facilitates secure and anonymous browsing by acting as an intermediary between users and the internet. It reroutes user requests through its servers, masking their actual IP addresses.
 
-## Key Features of Nebula Proxies
+## Key Features of Nebula Proxy
 
 Nebula Proxies offer a range of exceptional features designed to cater to users' needs for online proxy services. Here are some notable features of Nebula Proxies:
 
-### Secure and Anonymous Browsing
+#### Secure and Anonymous Browsing
 Nebula Proxies mask your real IP address, safeguarding your identity and personal information while you surf the web. This feature helps prevent your data from being tracked and collected by websites or third parties.
 
-### Access to Diverse Geographic Locations
+#### Access to Diverse Geographic Locations
 Nebula Proxies supply proxies from various locations worldwide. This enables you to access geo-restricted content or services, such as viewing region-specific content or visiting websites that are blocked in certain countries.
 
-### Speed and Stability
+#### Speed and Stability
 Nebula Proxies deliver high-performance and dependable proxies. This ensures you experience a smooth and uninterrupted internet connection.
 
 ## Advantages of Utilizing Nebula Proxy
@@ -65,9 +65,11 @@ Using Nebula Proxy is simple and requires no software installation or complex re
 
 ## Consider OkeyProxy for Your Proxy Needs
 
-Proxies are essential networking tools that conceal your IP address and offer numerous benefits to online users. If you are familiar with Nebula Proxy, consider exploring the capabilities of OkeyProxy, a leading Socks5 proxy provider that offers various appealing features. [OkeyProxy](https://www.okeyproxy.com/) is dedicated to providing comprehensive big data collection services for enterprises of all sizes across various industries. OkeyProxy's network includes over 150 million real residential IPs, covering more than 200 countries.
+Proxies are essential networking tools that conceal your IP address and offer numerous benefits to online users. If you are familiar with Nebula Proxy, consider exploring the capabilities of OkeyProxy, a leading Socks5 proxy provider that offers various appealing features. [OkeyProxy](https://www.okeyproxy.com/en?link=b63b57) is dedicated to providing comprehensive big data collection services for enterprises of all sizes across various industries. 
 
-By considering these options, you can ensure a secure, fast, and reliable browsing experience.
+OkeyProxy's network includes over 150 million real residential IPs, covering more than 200 countries. OkeyProxy provides rotating residential, static residential, and datacenter proxies, ensuring maximum flexibility and suitability for various business scenarios. [Get 3GB quality residential proxies for just $9](https://www.okeyproxy.com/en/residential-proxies?link=b63b57)!
+
+![EN banner](https://github.com/okeyproxy2/Nebula-Proxy/assets/155126786/0b46b087-aa05-4373-acc8-fcb6bc57d1bc)
 
 ...
 
